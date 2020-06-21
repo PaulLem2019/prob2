@@ -1,1 +1,5 @@
 create file after merge master and dev
+
+adding tag version on branch 'master'
+adding tag1.0.2
+
